@@ -38,10 +38,6 @@
         </section>
     </main>
 
-    <footer>
-        <p>&copy; 2024 Copyright - Your Name/Company</p>
-    </footer>
-
 </body>
 </html>
 /* Overall styles */
